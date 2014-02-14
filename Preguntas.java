@@ -82,14 +82,14 @@ x.add("Acuaticos(Peces)");
 x.add("Todos");
 x.add("Ninguno");
 
-e=new Label ("¿Cuantos libros lees al mes?"); 
+e=new Label ("¿cuantos anime conoces?"); 
 l=new Label ("¿Que tipo de genero te gusta mas?");
-w=new Label("¿Escribes en tu tiempo libre?");
-d=new Label ("¿Te gusta asistir a eventos literarios?"); 
-y=new Label ("¿Cuantos libros tienes en casa?");
+w=new Label("¿ves muchos?");
+d=new Label ("¿Te gusta asistir a eventos otaku?"); 
+y=new Label ("¿Cuantos anime tienes en casa?");
 e1=new Label ("¿Que tipo de musica te gusta mas?");
 l1=new Label ("¿Cual es tu color favorito?");
-w1=new Label ("¿Que animal te gusta mas?");
+w1=new Label ("¿Que animal odias mass?");
 
 f.setLayout(new GridLayout(10,10,10,10)); 
 f.setSize(250,400); 
